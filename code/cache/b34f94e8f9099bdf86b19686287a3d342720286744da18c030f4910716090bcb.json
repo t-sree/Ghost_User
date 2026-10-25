@@ -1,0 +1,39 @@
+{
+ "provider": "openai",
+ "model": "gpt-4.1-2025-04-14",
+ "usage": {
+  "input_tokens": 1790,
+  "output_tokens": 278
+ },
+ "prompt_sha256": "b34f94e8f9099bdf86b19686287a3d342720286744da18c030f4910716090bcb",
+ "response": {
+  "artifact_kind": "Marketing profile console screenshot",
+  "artifact_time": "2026-09-16T07:20:00Z",
+  "records": [
+   {
+    "resource_id": "marketing_001",
+    "system_id": null,
+    "record_type": "MARKETING_PROFILE",
+    "status": "Live",
+    "exists": true,
+    "enabled": null,
+    "restore_allowed": null,
+    "observed_at": "2026-09-15T23:40:00Z",
+    "names": [
+     "Soo-jin Park"
+    ],
+    "emails": [
+     "sj.park@naver.com"
+    ],
+    "phones": [
+     "+82 10-5837-9451"
+    ],
+    "user_refs": [],
+    "email_hashes": [],
+    "order_reference": null,
+    "retain_until": null,
+    "details": "Market: South Korea; Language: Korean; Email opt-in: Yes; SMS opt-in: No; Last refreshed: 15 Sep 2026 23:40 UTC; Audience: Returning customers — East Asia; Segments: Repeat customer · Home & lifestyle · Mobile shopper; Preferred categories: Desk accessories · Drinkware; Last campaign: Autumn offers; Open rate: 32.4%; Click rate: 6.8%"
+   }
+  ]
+ }
+}

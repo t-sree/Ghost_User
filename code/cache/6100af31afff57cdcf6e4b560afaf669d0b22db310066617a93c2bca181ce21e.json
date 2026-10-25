@@ -1,0 +1,135 @@
+{
+ "provider": "openai",
+ "model": "gpt-4.1-2025-04-14",
+ "usage": {
+  "input_tokens": 1028,
+  "output_tokens": 957
+ },
+ "prompt_sha256": "6100af31afff57cdcf6e4b560afaf669d0b22db310066617a93c2bca181ce21e",
+ "response": {
+  "artifact_kind": "Disputed orders and tax records legal retention register",
+  "artifact_time": "2026-05-29T08:00:00Z",
+  "records": [
+   {
+    "resource_id": "ORD-20264118",
+    "system_id": null,
+    "record_type": "LEGAL_HOLD_RECORD",
+    "status": null,
+    "exists": true,
+    "enabled": null,
+    "restore_allowed": null,
+    "observed_at": null,
+    "names": [],
+    "emails": [],
+    "phones": [],
+    "user_refs": [
+     "user_08"
+    ],
+    "email_hashes": [],
+    "order_reference": "ORD-20264118",
+    "retain_until": "2033-05-04",
+    "details": "Card dispute, invoice date 04 May 2026, amount USD 184.20, finance owner AR"
+   },
+   {
+    "resource_id": "ORD-20264207",
+    "system_id": null,
+    "record_type": "LEGAL_HOLD_RECORD",
+    "status": null,
+    "exists": true,
+    "enabled": null,
+    "restore_allowed": null,
+    "observed_at": null,
+    "names": [],
+    "emails": [],
+    "phones": [],
+    "user_refs": [
+     "user_12"
+    ],
+    "email_hashes": [],
+    "order_reference": "ORD-20264207",
+    "retain_until": "2033-05-09",
+    "details": "Tax correction, invoice date 09 May 2026, amount EUR 72.40, finance owner ML"
+   },
+   {
+    "resource_id": "ORD-20264319",
+    "system_id": null,
+    "record_type": "LEGAL_HOLD_RECORD",
+    "status": null,
+    "exists": true,
+    "enabled": null,
+    "restore_allowed": null,
+    "observed_at": null,
+    "names": [],
+    "emails": [],
+    "phones": [],
+    "user_refs": [
+     "user_17"
+    ],
+    "email_hashes": [],
+    "order_reference": "ORD-20264319",
+    "retain_until": "2033-05-14",
+    "details": "Chargeback, invoice date 14 May 2026, amount GBP 219.00, finance owner SK"
+   },
+   {
+    "resource_id": "ORD-20264402",
+    "system_id": null,
+    "record_type": "LEGAL_HOLD_RECORD",
+    "status": null,
+    "exists": true,
+    "enabled": null,
+    "restore_allowed": null,
+    "observed_at": null,
+    "names": [],
+    "emails": [],
+    "phones": [],
+    "user_refs": [
+     "user_21"
+    ],
+    "email_hashes": [],
+    "order_reference": "ORD-20264402",
+    "retain_until": "2033-05-18",
+    "details": "Invoice inquiry, invoice date 18 May 2026, amount CAD 96.55, finance owner AR"
+   },
+   {
+    "resource_id": "ORD-20264511",
+    "system_id": null,
+    "record_type": "LEGAL_HOLD_RECORD",
+    "status": null,
+    "exists": true,
+    "enabled": null,
+    "restore_allowed": null,
+    "observed_at": null,
+    "names": [],
+    "emails": [],
+    "phones": [],
+    "user_refs": [
+     "user_24"
+    ],
+    "email_hashes": [],
+    "order_reference": "ORD-20264511",
+    "retain_until": "2033-05-23",
+    "details": "Card dispute, invoice date 23 May 2026, amount AUD 311.80, finance owner ML"
+   },
+   {
+    "resource_id": "ORD-20264600",
+    "system_id": null,
+    "record_type": "LEGAL_HOLD_RECORD",
+    "status": null,
+    "exists": true,
+    "enabled": null,
+    "restore_allowed": null,
+    "observed_at": null,
+    "names": [],
+    "emails": [],
+    "phones": [],
+    "user_refs": [
+     "user_29"
+    ],
+    "email_hashes": [],
+    "order_reference": "ORD-20264600",
+    "retain_until": "2033-05-28",
+    "details": "Tax record, invoice date 28 May 2026, amount USD 48.75, finance owner SK"
+   }
+  ]
+ }
+}

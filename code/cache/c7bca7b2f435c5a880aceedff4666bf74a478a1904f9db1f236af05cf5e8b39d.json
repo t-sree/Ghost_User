@@ -1,0 +1,57 @@
+{
+ "provider": "openai",
+ "model": "gpt-4.1-2025-04-14",
+ "usage": {
+  "input_tokens": 908,
+  "output_tokens": 398
+ },
+ "prompt_sha256": "c7bca7b2f435c5a880aceedff4666bf74a478a1904f9db1f236af05cf5e8b39d",
+ "response": {
+  "artifact_kind": "Support ticket with delivery address correction request and attachment",
+  "artifact_time": "2026-09-12T07:30:00Z",
+  "records": [
+   {
+    "resource_id": "support_001",
+    "system_id": null,
+    "record_type": "SUPPORT_MESSAGE",
+    "status": null,
+    "exists": true,
+    "enabled": null,
+    "restore_allowed": null,
+    "observed_at": "2026-06-18T10:24:00Z",
+    "names": [
+     "Priya Raman"
+    ],
+    "emails": [
+     "priya.raman@gmail.com"
+    ],
+    "phones": [
+     "+91 98765 73142"
+    ],
+    "user_refs": [],
+    "email_hashes": [],
+    "order_reference": "ORD-20264827",
+    "retain_until": null,
+    "details": "Northstar Shop Delivery Address Correction Request; preferred contact SMS; change apartment number from 14B to 18B and call before delivery; Product: Stainless steel water bottle, quantity 2; carrier SwiftShip"
+   },
+   {
+    "resource_id": "support_001",
+    "system_id": null,
+    "record_type": "SUPPORT_ATTACHMENT",
+    "status": null,
+    "exists": true,
+    "enabled": null,
+    "restore_allowed": null,
+    "observed_at": "2026-09-12T07:30:00Z",
+    "names": [],
+    "emails": [],
+    "phones": [],
+    "user_refs": [],
+    "email_hashes": [],
+    "order_reference": "ORD-20264827",
+    "retain_until": null,
+    "details": "file delivery_address_correction.pdf; 312 KB; ticket CS-4827; region ap-south; uploader customer; checksum prefix c90a42"
+   }
+  ]
+ }
+}

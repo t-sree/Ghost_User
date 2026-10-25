@@ -1,0 +1,113 @@
+{
+ "provider": "openai",
+ "model": "gpt-4.1-2025-04-14",
+ "usage": {
+  "input_tokens": 1794,
+  "output_tokens": 842
+ },
+ "prompt_sha256": "5d65a93aaff9518a819a383e48771bdd778b22ca7b59b45b3ab604519e752a24",
+ "response": {
+  "artifact_kind": "Customer account admin console screenshot",
+  "artifact_time": "2026-09-26T09:14:00+09:00",
+  "records": [
+   {
+    "resource_id": "account_5762",
+    "system_id": null,
+    "record_type": "USER_PROFILE",
+    "status": "Active",
+    "exists": true,
+    "enabled": null,
+    "restore_allowed": null,
+    "observed_at": "2026-09-26T09:14:00+09:00",
+    "names": [
+     "Haruka Sato"
+    ],
+    "emails": [
+     "haruka.s1838@zoho.com"
+    ],
+    "phones": [
+     "+81 90 7610 2507"
+    ],
+    "user_refs": [
+     "user_11"
+    ],
+    "email_hashes": [],
+    "order_reference": null,
+    "retain_until": null,
+    "details": "Signup channel: mobile_app; Market: JP; Preferred language: Japanese; Last contact: 24 Sep 2026 09:14 JST; Default address: 2-18-4 Kichijoji, Musashino, Tokyo 180-0004; Loyalty tier: Silver; Support: CS-8538, support_9538; Member since: 12 Jan 2024"
+   },
+   {
+    "resource_id": "ORD-20265762",
+    "system_id": null,
+    "record_type": "ORDER",
+    "status": "Delivered : 18 Sep",
+    "exists": true,
+    "enabled": null,
+    "restore_allowed": null,
+    "observed_at": null,
+    "names": [],
+    "emails": [],
+    "phones": [],
+    "user_refs": [],
+    "email_hashes": [],
+    "order_reference": "ORD-20265762",
+    "retain_until": null,
+    "details": "Date: 12 Sep 2026; Item: Ceramic coffee set; Qty: 1; Total: JPY 8,900"
+   },
+   {
+    "resource_id": "ORD-20265518",
+    "system_id": null,
+    "record_type": "ORDER",
+    "status": "Returned : 03 Sep",
+    "exists": true,
+    "enabled": null,
+    "restore_allowed": null,
+    "observed_at": null,
+    "names": [],
+    "emails": [],
+    "phones": [],
+    "user_refs": [],
+    "email_hashes": [],
+    "order_reference": "ORD-20265518",
+    "retain_until": null,
+    "details": "Date: 28 Aug 2026; Item: Travel backpack; Qty: 1; Total: JPY 12,400"
+   },
+   {
+    "resource_id": "CS-8538",
+    "system_id": null,
+    "record_type": "SUPPORT_MESSAGE",
+    "status": null,
+    "exists": true,
+    "enabled": null,
+    "restore_allowed": null,
+    "observed_at": null,
+    "names": [],
+    "emails": [],
+    "phones": [],
+    "user_refs": [],
+    "email_hashes": [],
+    "order_reference": null,
+    "retain_until": null,
+    "details": "Support ticket referenced in customer details and activity"
+   },
+   {
+    "resource_id": "support_9538",
+    "system_id": null,
+    "record_type": "SUPPORT_MESSAGE",
+    "status": null,
+    "exists": true,
+    "enabled": null,
+    "restore_allowed": null,
+    "observed_at": "2026-08-28T00:00:00+09:00",
+    "names": [],
+    "emails": [],
+    "phones": [],
+    "user_refs": [],
+    "email_hashes": [],
+    "order_reference": null,
+    "retain_until": null,
+    "details": "Support ticket created 28 Aug 2026"
+   }
+  ]
+ }
+}

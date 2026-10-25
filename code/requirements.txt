@@ -1,0 +1,4 @@
+# Python 3.10+ (developed on 3.14). Everything else is the standard library (csv, json, sqlite3, ...).
+pypdf>=4.0          # PDF text extraction
+openai>=1.40        # default LLM provider (AUDIT_LLM_PROVIDER=openai)
+# anthropic>=0.40   # only if AUDIT_LLM_PROVIDER=anthropic

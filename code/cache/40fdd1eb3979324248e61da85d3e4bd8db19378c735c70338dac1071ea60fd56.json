@@ -1,0 +1,59 @@
+{
+ "provider": "openai",
+ "model": "gpt-4.1-2025-04-14",
+ "usage": {
+  "input_tokens": 1795,
+  "output_tokens": 359
+ },
+ "prompt_sha256": "40fdd1eb3979324248e61da85d3e4bd8db19378c735c70338dac1071ea60fd56",
+ "response": {
+  "artifact_kind": "Customer search index inspector screenshot",
+  "artifact_time": "2026-09-01T06:00:14Z",
+  "records": [
+   {
+    "resource_id": "search_428",
+    "system_id": "customer_directory_v3",
+    "record_type": "SEARCH_INDEX_ENTRY",
+    "status": null,
+    "exists": true,
+    "enabled": null,
+    "restore_allowed": null,
+    "observed_at": "2026-09-01T05:58:21Z",
+    "names": [
+     "Gabriel Silva"
+    ],
+    "emails": [
+     "g.silva76@gmail.com"
+    ],
+    "phones": [],
+    "user_refs": [
+     "user_13"
+    ],
+    "email_hashes": [],
+    "order_reference": null,
+    "retain_until": null,
+    "details": "Score: 9.84, Last indexed: 05:58:21 UTC"
+   },
+   {
+    "resource_id": "search_1874",
+    "system_id": "customer_directory_v3",
+    "record_type": "SEARCH_INDEX_ENTRY",
+    "status": null,
+    "exists": true,
+    "enabled": null,
+    "restore_allowed": null,
+    "observed_at": "2026-09-01T05:55:03Z",
+    "names": [],
+    "emails": [
+     "g.silva76jr@gmail.com"
+    ],
+    "phones": [],
+    "user_refs": [],
+    "email_hashes": [],
+    "order_reference": null,
+    "retain_until": null,
+    "details": "Score: 4.12, Last indexed: 05:55:03 UTC"
+   }
+  ]
+ }
+}

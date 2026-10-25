@@ -1,0 +1,127 @@
+{
+ "provider": "openai",
+ "model": "gpt-4.1-2025-04-14",
+ "usage": {
+  "input_tokens": 1794,
+  "output_tokens": 999
+ },
+ "prompt_sha256": "5db46b5a3bd8dc82ec19e3891f1b005a7149c339ab70f15fb07e70e0c4a1e3db",
+ "response": {
+  "artifact_kind": "User analytics profile view",
+  "artifact_time": "2026-07-13T10:00:00Z",
+  "records": [
+   {
+    "resource_id": "user_20",
+    "system_id": "analytics_7438",
+    "record_type": "ANALYTICS_PROFILE",
+    "status": null,
+    "exists": true,
+    "enabled": null,
+    "restore_allowed": null,
+    "observed_at": "2026-07-13T14:22:00Z",
+    "names": [
+     "Omar Darwish"
+    ],
+    "emails": [
+     "darwish.omar@icloud.com"
+    ],
+    "phones": [],
+    "user_refs": [],
+    "email_hashes": [],
+    "order_reference": null,
+    "retain_until": null,
+    "details": "Market: AE; Audience: Returning shopper; Interest: Coffee & dining; Last activity: 13 Jul 2026 14:22 UTC; First seen: 21 Apr 2026 09:14 UTC; Sessions: 12; Products viewed: 19; Completed orders: 2; Revenue: USD 167.42; Mobile/Desktop: 67%/33%; Acquisition: Organic search"
+   },
+   {
+    "resource_id": null,
+    "system_id": null,
+    "record_type": "ANALYTICS_PROFILE_EVENT",
+    "status": null,
+    "exists": true,
+    "enabled": null,
+    "restore_allowed": null,
+    "observed_at": "2026-07-13T14:22:00Z",
+    "names": [],
+    "emails": [],
+    "phones": [],
+    "user_refs": [],
+    "email_hashes": [],
+    "order_reference": null,
+    "retain_until": null,
+    "details": "Event: Order completed; Product: Ceramic coffee set; Value: USD 84.21; Device: Mobile"
+   },
+   {
+    "resource_id": null,
+    "system_id": null,
+    "record_type": "ANALYTICS_PROFILE_EVENT",
+    "status": null,
+    "exists": true,
+    "enabled": null,
+    "restore_allowed": null,
+    "observed_at": "2026-07-13T14:20:00Z",
+    "names": [],
+    "emails": [],
+    "phones": [],
+    "user_refs": [],
+    "email_hashes": [],
+    "order_reference": null,
+    "retain_until": null,
+    "details": "Event: Checkout started; Product: 2 items; Value: USD 84.21; Device: Mobile"
+   },
+   {
+    "resource_id": null,
+    "system_id": null,
+    "record_type": "ANALYTICS_PROFILE_EVENT",
+    "status": null,
+    "exists": true,
+    "enabled": null,
+    "restore_allowed": null,
+    "observed_at": "2026-07-13T14:17:00Z",
+    "names": [],
+    "emails": [],
+    "phones": [],
+    "user_refs": [],
+    "email_hashes": [],
+    "order_reference": null,
+    "retain_until": null,
+    "details": "Event: Product viewed; Product: Ceramic coffee set; Value: —; Device: Mobile"
+   },
+   {
+    "resource_id": null,
+    "system_id": null,
+    "record_type": "ANALYTICS_PROFILE_EVENT",
+    "status": null,
+    "exists": true,
+    "enabled": null,
+    "restore_allowed": null,
+    "observed_at": "2026-07-13T14:16:00Z",
+    "names": [],
+    "emails": [],
+    "phones": [],
+    "user_refs": [],
+    "email_hashes": [],
+    "order_reference": null,
+    "retain_until": null,
+    "details": "Event: Added to cart; Product: Ceramic coffee set; Value: USD 42.00; Device: Mobile"
+   },
+   {
+    "resource_id": null,
+    "system_id": null,
+    "record_type": "ANALYTICS_PROFILE_EVENT",
+    "status": null,
+    "exists": true,
+    "enabled": null,
+    "restore_allowed": null,
+    "observed_at": "2026-07-13T14:12:00Z",
+    "names": [],
+    "emails": [],
+    "phones": [],
+    "user_refs": [],
+    "email_hashes": [],
+    "order_reference": null,
+    "retain_until": null,
+    "details": "Event: Product viewed; Product: Stoneware mug; Value: USD 18.00; Device: Desktop"
+   }
+  ]
+ }
+}

@@ -1,0 +1,95 @@
+{
+ "provider": "openai",
+ "model": "gpt-4.1-2025-04-14",
+ "usage": {
+  "input_tokens": 1794,
+  "output_tokens": 663
+ },
+ "prompt_sha256": "0ba3b1f8423b4da8b502f04baa2c21a54d366570d5753c0f8468b78771acc554",
+ "response": {
+  "artifact_kind": "Customer data export console screenshot",
+  "artifact_time": "2026-06-18T12:00:00Z",
+  "records": [
+   {
+    "resource_id": "export_1261",
+    "system_id": null,
+    "record_type": "USER_EXPORT",
+    "status": "Collecting",
+    "exists": true,
+    "enabled": null,
+    "restore_allowed": null,
+    "observed_at": "2026-06-20T14:18:00Z",
+    "names": [],
+    "emails": [
+     "marcus.lee@northstar.shop"
+    ],
+    "phones": [],
+    "user_refs": [],
+    "email_hashes": [],
+    "order_reference": null,
+    "retain_until": null,
+    "details": "Filename: customer_export_1261.zip"
+   },
+   {
+    "resource_id": "export_1260",
+    "system_id": null,
+    "record_type": "USER_EXPORT",
+    "status": "Ready",
+    "exists": true,
+    "enabled": null,
+    "restore_allowed": null,
+    "observed_at": "2026-06-18T06:42:00Z",
+    "names": [],
+    "emails": [
+     "ingrid.dahl@outlook.com"
+    ],
+    "phones": [],
+    "user_refs": [],
+    "email_hashes": [],
+    "order_reference": null,
+    "retain_until": "2026-06-25T06:42:00Z",
+    "details": "Filename: customer_export_1260.zip; Size: 18.4 MB; Checksum: SHA-256 - 41ca09...; Download count: 0; Included: Profile, Orders, Saved addresses"
+   },
+   {
+    "resource_id": "export_1259",
+    "system_id": null,
+    "record_type": "USER_EXPORT",
+    "status": "Packaging",
+    "exists": true,
+    "enabled": null,
+    "restore_allowed": null,
+    "observed_at": "2026-06-17T11:03:00Z",
+    "names": [],
+    "emails": [
+     "sara.kim@northstar.shop"
+    ],
+    "phones": [],
+    "user_refs": [],
+    "email_hashes": [],
+    "order_reference": null,
+    "retain_until": null,
+    "details": "Filename: customer_export_1259.zip"
+   },
+   {
+    "resource_id": "export_1258",
+    "system_id": null,
+    "record_type": "USER_EXPORT",
+    "status": "Ready",
+    "exists": true,
+    "enabled": null,
+    "restore_allowed": null,
+    "observed_at": "2026-06-16T09:27:00Z",
+    "names": [],
+    "emails": [
+     "daniel.park@northstar.shop"
+    ],
+    "phones": [],
+    "user_refs": [],
+    "email_hashes": [],
+    "order_reference": null,
+    "retain_until": null,
+    "details": "Filename: customer_export_1258.zip"
+   }
+  ]
+ }
+}

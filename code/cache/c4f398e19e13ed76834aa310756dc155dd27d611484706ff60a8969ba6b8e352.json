@@ -1,0 +1,91 @@
+{
+ "provider": "openai",
+ "model": "gpt-4.1-2025-04-14",
+ "usage": {
+  "input_tokens": 1794,
+  "output_tokens": 676
+ },
+ "prompt_sha256": "c4f398e19e13ed76834aa310756dc155dd27d611484706ff60a8969ba6b8e352",
+ "response": {
+  "artifact_kind": "Connector management console screenshot showing active data flows and their status",
+  "artifact_time": "2026-08-07T08:00:00Z",
+  "records": [
+   {
+    "resource_id": "data_flow_1121",
+    "system_id": null,
+    "record_type": "DATA_FLOW",
+    "status": "Healthy",
+    "exists": true,
+    "enabled": true,
+    "restore_allowed": null,
+    "observed_at": "2026-08-07T07:59:42Z",
+    "names": [],
+    "emails": [
+     "jain.aditi@gmail.com"
+    ],
+    "phones": [],
+    "user_refs": [],
+    "email_hashes": [],
+    "order_reference": null,
+    "retain_until": null,
+    "details": "Owner: Data Platform; Destination: customer_analytics_warehouse; Selector: jain.aditi@gmail.com; Sync mode: Continuous; Last response: 200 OK - 1.8 s; Events/hour: 1,284"
+   },
+   {
+    "resource_id": "data_flow_9846",
+    "system_id": null,
+    "record_type": "DATA_FLOW",
+    "status": null,
+    "exists": true,
+    "enabled": true,
+    "restore_allowed": null,
+    "observed_at": "2026-08-07T07:59:36Z",
+    "names": [],
+    "emails": [
+     "lucia.torres@gmail.com"
+    ],
+    "phones": [],
+    "user_refs": [],
+    "email_hashes": [],
+    "order_reference": null,
+    "retain_until": null,
+    "details": "Destination: customer_analytics_warehouse; Selector: lucia.torres@gmail.com; Mode: Continuous; Events/hour: 842"
+   },
+   {
+    "resource_id": null,
+    "system_id": null,
+    "record_type": "DATA_FLOW",
+    "status": null,
+    "exists": true,
+    "enabled": true,
+    "restore_allowed": null,
+    "observed_at": "2026-08-07T07:59:28Z",
+    "names": [],
+    "emails": [],
+    "phones": [],
+    "user_refs": [],
+    "email_hashes": [],
+    "order_reference": null,
+    "retain_until": null,
+    "details": "Order notifications; Destination: notification_service; Selector: order events; Mode: Continuous; Events/hour: 650"
+   },
+   {
+    "resource_id": null,
+    "system_id": null,
+    "record_type": "DATA_FLOW",
+    "status": null,
+    "exists": true,
+    "enabled": true,
+    "restore_allowed": null,
+    "observed_at": "2026-08-07T07:59:13Z",
+    "names": [],
+    "emails": [],
+    "phones": [],
+    "user_refs": [],
+    "email_hashes": [],
+    "order_reference": null,
+    "retain_until": null,
+    "details": "Delivery tracking; Destination: logistics_warehouse; Selector: shipment events; Mode: Continuous; Events/hour: 420"
+   }
+  ]
+ }
+}

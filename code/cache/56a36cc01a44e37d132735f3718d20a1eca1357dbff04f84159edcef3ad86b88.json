@@ -1,0 +1,35 @@
+{
+ "provider": "openai",
+ "model": "gpt-4.1-2025-04-14",
+ "usage": {
+  "input_tokens": 854,
+  "output_tokens": 198
+ },
+ "prompt_sha256": "56a36cc01a44e37d132735f3718d20a1eca1357dbff04f84159edcef3ad86b88",
+ "response": {
+  "artifact_kind": "Compliance journal signed record extract",
+  "artifact_time": "2026-09-05T06:30:00Z",
+  "records": [
+   {
+    "resource_id": "audit_record_003",
+    "system_id": null,
+    "record_type": "SECURITY_AUDIT_LOG",
+    "status": null,
+    "exists": true,
+    "enabled": null,
+    "restore_allowed": null,
+    "observed_at": "2026-08-25T04:03:00Z",
+    "names": [],
+    "emails": [],
+    "phones": [],
+    "user_refs": [
+     "user_03"
+    ],
+    "email_hashes": [],
+    "order_reference": null,
+    "retain_until": "2027-08-25T04:03:00Z",
+    "details": "event: Account closure recorded; actor: automated account workflow"
+   }
+  ]
+ }
+}

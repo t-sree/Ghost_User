@@ -1,0 +1,56 @@
+{
+ "provider": "openai",
+ "model": "gpt-4.1-2025-04-14",
+ "usage": {
+  "input_tokens": 1794,
+  "output_tokens": 392
+ },
+ "prompt_sha256": "7d411f1c9b74ae1227d7407e0ca2b64b80892ca87232e65b6aac55184cf6b3ef",
+ "response": {
+  "artifact_kind": "Support ticket console screenshot for a delivery inquiry",
+  "artifact_time": "2026-05-24T07:00:00Z",
+  "records": [
+   {
+    "resource_id": "support_1034",
+    "system_id": null,
+    "record_type": "SUPPORT_MESSAGE",
+    "status": "Normal priority",
+    "exists": true,
+    "enabled": null,
+    "restore_allowed": null,
+    "observed_at": null,
+    "names": [
+     "Kofi Agyeman",
+     "Maya Chen"
+    ],
+    "emails": [
+     "kagyeman8947@fastmail.com"
+    ],
+    "phones": [],
+    "user_refs": [],
+    "email_hashes": [],
+    "order_reference": "ORD-20265034",
+    "retain_until": null,
+    "details": "Tags: Delivery, Tracking, Order update; Assigned agent: Maya Chen"
+   },
+   {
+    "resource_id": "ORD-20265034",
+    "system_id": null,
+    "record_type": "OBJECT",
+    "status": "In transit",
+    "exists": true,
+    "enabled": null,
+    "restore_allowed": null,
+    "observed_at": null,
+    "names": [],
+    "emails": [],
+    "phones": [],
+    "user_refs": [],
+    "email_hashes": [],
+    "order_reference": "ORD-20265034",
+    "retain_until": null,
+    "details": "Product: Running shoes; Carrier: SwiftShip; Tracking: SWF-884103; Expected: 26 May 2026; Assigned agent: Maya Chen; Activity: 22 May Order confirmed, 23 May Dispatched, 24 May 07:46 Reached regional hub, 24 May 08:15 In transit, 26 May Delivery expected"
+   }
+  ]
+ }
+}

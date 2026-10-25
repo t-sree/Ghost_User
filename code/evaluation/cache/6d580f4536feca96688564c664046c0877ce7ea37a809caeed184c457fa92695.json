@@ -1,0 +1,37 @@
+{
+ "provider": "openai",
+ "model": "gpt-4.1-mini-2025-04-14",
+ "usage": {
+  "input_tokens": 416,
+  "output_tokens": 111
+ },
+ "prompt_sha256": "6d580f4536feca96688564c664046c0877ce7ea37a809caeed184c457fa92695",
+ "response": {
+  "results": [
+   {
+    "id": 0,
+    "authorizes_deletion": false,
+    "intent": "export",
+    "language": "de"
+   },
+   {
+    "id": 1,
+    "authorizes_deletion": true,
+    "intent": "deletion",
+    "language": "en"
+   },
+   {
+    "id": 2,
+    "authorizes_deletion": true,
+    "intent": "deletion",
+    "language": "en"
+   },
+   {
+    "id": 3,
+    "authorizes_deletion": true,
+    "intent": "deletion",
+    "language": "fr"
+   }
+  ]
+ }
+}

@@ -1,0 +1,151 @@
+{
+ "provider": "openai",
+ "model": "gpt-4.1-mini-2025-04-14",
+ "usage": {
+  "input_tokens": 1381,
+  "output_tokens": 625
+ },
+ "prompt_sha256": "620ce8e1b7c366cc8e7301928709426cc9b997d011297c27eb567cfc06a241f3",
+ "response": {
+  "results": [
+   {
+    "id": 0,
+    "authorizes_deletion": true,
+    "intent": "deletion",
+    "language": "en"
+   },
+   {
+    "id": 1,
+    "authorizes_deletion": true,
+    "intent": "deletion",
+    "language": "en"
+   },
+   {
+    "id": 2,
+    "authorizes_deletion": true,
+    "intent": "deletion",
+    "language": "en"
+   },
+   {
+    "id": 3,
+    "authorizes_deletion": true,
+    "intent": "deletion",
+    "language": "en"
+   },
+   {
+    "id": 4,
+    "authorizes_deletion": true,
+    "intent": "deletion",
+    "language": "en"
+   },
+   {
+    "id": 5,
+    "authorizes_deletion": true,
+    "intent": "deletion",
+    "language": "en"
+   },
+   {
+    "id": 6,
+    "authorizes_deletion": true,
+    "intent": "deletion",
+    "language": "en"
+   },
+   {
+    "id": 7,
+    "authorizes_deletion": true,
+    "intent": "deletion",
+    "language": "en"
+   },
+   {
+    "id": 8,
+    "authorizes_deletion": true,
+    "intent": "deletion",
+    "language": "en"
+   },
+   {
+    "id": 9,
+    "authorizes_deletion": true,
+    "intent": "deletion",
+    "language": "en"
+   },
+   {
+    "id": 10,
+    "authorizes_deletion": true,
+    "intent": "deletion",
+    "language": "en"
+   },
+   {
+    "id": 11,
+    "authorizes_deletion": true,
+    "intent": "deletion",
+    "language": "en"
+   },
+   {
+    "id": 12,
+    "authorizes_deletion": true,
+    "intent": "deletion",
+    "language": "en"
+   },
+   {
+    "id": 13,
+    "authorizes_deletion": true,
+    "intent": "deletion",
+    "language": "en"
+   },
+   {
+    "id": 14,
+    "authorizes_deletion": true,
+    "intent": "deletion",
+    "language": "en"
+   },
+   {
+    "id": 15,
+    "authorizes_deletion": true,
+    "intent": "deletion",
+    "language": "en"
+   },
+   {
+    "id": 16,
+    "authorizes_deletion": true,
+    "intent": "deletion",
+    "language": "pt"
+   },
+   {
+    "id": 17,
+    "authorizes_deletion": true,
+    "intent": "deletion",
+    "language": "es"
+   },
+   {
+    "id": 18,
+    "authorizes_deletion": true,
+    "intent": "deletion",
+    "language": "en"
+   },
+   {
+    "id": 19,
+    "authorizes_deletion": false,
+    "intent": "correction",
+    "language": "en"
+   },
+   {
+    "id": 20,
+    "authorizes_deletion": true,
+    "intent": "deletion",
+    "language": "en"
+   },
+   {
+    "id": 21,
+    "authorizes_deletion": true,
+    "intent": "deletion",
+    "language": "ja"
+   },
+   {
+    "id": 22,
+    "authorizes_deletion": true,
+    "intent": "deletion",
+    "language": "ko"
+   }
+  ]
+ }
+}

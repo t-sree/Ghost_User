@@ -1,0 +1,63 @@
+{
+ "provider": "openai",
+ "model": "gpt-4.1-2025-04-14",
+ "usage": {
+  "input_tokens": 898,
+  "output_tokens": 439
+ },
+ "prompt_sha256": "62a08fac9a06a105ac699323107190a77f14345d9344f5540827ea45787e8b22",
+ "response": {
+  "artifact_kind": "Customer account and order statement PDF",
+  "artifact_time": "2026-07-18T11:00:00Z",
+  "records": [
+   {
+    "resource_id": "user_18",
+    "system_id": null,
+    "record_type": "USER_PROFILE",
+    "status": null,
+    "exists": true,
+    "enabled": null,
+    "restore_allowed": null,
+    "observed_at": null,
+    "names": [
+     "Ingrid Dahl"
+    ],
+    "emails": [
+     "ingrid.dahl@outlook.com"
+    ],
+    "phones": [],
+    "user_refs": [
+     "user_18"
+    ],
+    "email_hashes": [],
+    "order_reference": "ORD-20261260",
+    "retain_until": null,
+    "details": "Customer statement NST-2026-0718-1842"
+   },
+   {
+    "resource_id": "ORD-20261260",
+    "system_id": null,
+    "record_type": "ORDER",
+    "status": "paid",
+    "exists": true,
+    "enabled": null,
+    "restore_allowed": null,
+    "observed_at": "2026-07-08T00:00:00Z",
+    "names": [
+     "Ingrid Dahl"
+    ],
+    "emails": [
+     "ingrid.dahl@outlook.com"
+    ],
+    "phones": [],
+    "user_refs": [
+     "user_18"
+    ],
+    "email_hashes": [],
+    "order_reference": "ORD-20261260",
+    "retain_until": null,
+    "details": "Smart desk lamp, SKU LAMP-SD-04, quantity 1, subtotal EUR 54.95, shipping EUR 4.99, tax EUR 11.99, total EUR 71.93; Payment Visa ending 4821; billing status paid; order date 08 Jul 2026; dispatched 10 Jul; delivered 14 Jul; Delivery address 24 Fjordgata, 7010 Trondheim, Norway; Timeline: order placed, payment authorised, warehouse packed, carrier collected, delivered"
+   }
+  ]
+ }
+}

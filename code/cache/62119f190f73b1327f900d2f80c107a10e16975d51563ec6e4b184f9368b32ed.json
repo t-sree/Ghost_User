@@ -1,0 +1,95 @@
+{
+ "provider": "openai",
+ "model": "gpt-4.1-2025-04-14",
+ "usage": {
+  "input_tokens": 1794,
+  "output_tokens": 715
+ },
+ "prompt_sha256": "62119f190f73b1327f900d2f80c107a10e16975d51563ec6e4b184f9368b32ed",
+ "response": {
+  "artifact_kind": "Vault Recovery Manager - Customer-platform backup archives overview",
+  "artifact_time": "2026-04-29T09:00:00Z",
+  "records": [
+   {
+    "resource_id": "backup_9291",
+    "system_id": null,
+    "record_type": "BACKUP_ARCHIVE",
+    "status": "Archive",
+    "exists": true,
+    "enabled": null,
+    "restore_allowed": null,
+    "observed_at": "2026-04-26T02:00:00Z",
+    "names": [],
+    "emails": [
+     "bluepeakco@outlook.com"
+    ],
+    "phones": [],
+    "user_refs": [],
+    "email_hashes": [],
+    "order_reference": null,
+    "retain_until": null,
+    "details": "Region: ap-southeast-1, Size: 102.3 GB, Encryption: AES-256"
+   },
+   {
+    "resource_id": "backup_9288",
+    "system_id": null,
+    "record_type": "BACKUP_ARCHIVE",
+    "status": "Archive",
+    "exists": true,
+    "enabled": null,
+    "restore_allowed": null,
+    "observed_at": "2026-04-26T02:00:00Z",
+    "names": [],
+    "emails": [
+     "miller.logistics@company.com"
+    ],
+    "phones": [],
+    "user_refs": [],
+    "email_hashes": [],
+    "order_reference": null,
+    "retain_until": null,
+    "details": "Region: us-west-2, Size: 67.1 GB, Encryption: AES-256"
+   },
+   {
+    "resource_id": "backup_9287",
+    "system_id": null,
+    "record_type": "BACKUP_ARCHIVE",
+    "status": "Archive",
+    "exists": true,
+    "enabled": null,
+    "restore_allowed": null,
+    "observed_at": "2026-04-26T02:00:00Z",
+    "names": [],
+    "emails": [
+     "areed1433@gmail.com"
+    ],
+    "phones": [],
+    "user_refs": [],
+    "email_hashes": [],
+    "order_reference": null,
+    "retain_until": "2026-07-26",
+    "details": "Region: eu-west-1, Size: 84.7 GB, Encryption: AES-256, Path: s3://northstar-backups/customer-platform/weeklysegment-42-20260426.tar.zst, Checksum: Verified, Last drill: 29 Mar 2026"
+   },
+   {
+    "resource_id": "backup_9286",
+    "system_id": null,
+    "record_type": "BACKUP_ARCHIVE",
+    "status": "Archive",
+    "exists": true,
+    "enabled": null,
+    "restore_allowed": null,
+    "observed_at": "2026-04-26T02:00:00Z",
+    "names": [],
+    "emails": [
+     "summit-retail@company.com"
+    ],
+    "phones": [],
+    "user_refs": [],
+    "email_hashes": [],
+    "order_reference": null,
+    "retain_until": null,
+    "details": "Region: us-east-1, Size: 91.4 GB, Encryption: AES-256"
+   }
+  ]
+ }
+}
